@@ -7,7 +7,8 @@ This is a solution to the [Order summary component](https://www.frontendmentor.i
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Links](#links)
-
+- [My process](#my-process)
+  - [Built with](#built-with)
 - [Author](#author)
 
 ## Overview
@@ -23,6 +24,13 @@ Your users should be able to:
 
 - Solution URL: [Link](https://www.frontendmentor.io/solutions/order-summary-component-ZlSJ0qGf7)
 - Live Site URL: [Link](https://order-summary-component.sz7kow.com/)
+
+## My process
+
+### Built with
+
+- HTML
+- Sass
 
 ## Author
 - Frontend Mentor - [@sz7kow](https://www.frontendmentor.io/profile/sz7kow)
