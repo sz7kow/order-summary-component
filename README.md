@@ -1,4 +1,4 @@
-# Frontend Mentor - Product feedback app solution
+# Frontend Mentor - Order summary component
 
 This is a solution to the [Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj) challange on Frontend Mentor.
 
