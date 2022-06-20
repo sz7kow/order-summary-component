@@ -6,6 +6,7 @@ This is a solution to the [Order summary component](https://www.frontendmentor.i
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -19,6 +20,9 @@ Your users should be able to:
 
 - See hover states for interactive elements
 
+### Screenshot
+
+![](./screenshots/screenshot-order-summary-component.jpg)
 
 ### Links
 
