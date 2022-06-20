@@ -21,8 +21,8 @@ Your users should be able to:
 
 ### Links
 
-- [Solution URL:](https://www.frontendmentor.io/solutions/order-summary-component-ZlSJ0qGf7)
-- [Live Site URL:](https://order-summary-component.sz7kow.com/)
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/order-summary-component-ZlSJ0qGf7)
+- Live Site URL: [Link](https://order-summary-component.sz7kow.com/)
 
 ## Author
 - Frontend Mentor - [@sz7kow](https://www.frontendmentor.io/profile/sz7kow)
